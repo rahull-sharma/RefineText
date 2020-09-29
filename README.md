@@ -1,2 +1,2 @@
 # RefineText
-Basic Django Website
+Basic Website I Made With Django
